@@ -1,5 +1,7 @@
 # myWeb
-#A Simple Webpage Developed By Me Using Simple #HTML, #CSS, #JavaScript
+#A Webpage Developed By Me Using #HTML, #CSS, #JavaScript
 
-TO PREVIEW THIS WEBPAGE DOWNLOAD images FOLDER ALONG WITH index.html WITHIN SAME FOLDER.
-OPEN index.html, PAGE WILL DEPICT ON YOUR WEB BROWSER.
+HOW TO RUN->
+1- TO PREVIEW THIS WEBPAGE DOWNLOAD images FOLDER ALONG WITH index.html WITHIN SAME FOLDER.
+<br>
+2- OPEN index.html, PAGE WILL open ON YOUR WEB BROWSER.
